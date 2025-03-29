@@ -1,6 +1,13 @@
 # Semáforo
 Este é um simulado de um semáforo desenvolido com HTML, CSS e JavaScript. Simula os semáforos da vida, alternando do estavo verde para o amarelo, do amarelo para o vermelho, e do vermelho para o verde.
 
+## Tecnologias utilizadas
+Essse projeto foi desenvolvido seguindo as seguintes tecnologias:
+
+- HTML - Estrutura o layout da página (https://html.com/) 
+- CSS - Estiliza o layout (https://css.com/)
+- JavaScript - Implementa toda a lógica e eventos que acontece no programa (https://www.javascript.com/)
+  
 ## Visualização do Projeto
 (https://github.com/HeitorDalla/traffic-light)
 

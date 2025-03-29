@@ -1,5 +1,5 @@
 # Semáforo
-Este é um gerador de senha aleatória desenvolvido com HTML, CSS e JavaScript. Ele gera senhas seguras e aleatórias com base nos parâmetros fornecidos pelo usuário, como comprimento da senha e caracteres especiais.
+Este é um simulado de um semáforo desenvolido com HTML, CSS e JavaScript. Simula os semáforos da vida, alternando do estavo verde para o amarelo, do amarelo para o vermelho, e do vermelho para o verde.
 
 ## Visualização do Projeto
 (https://github.com/HeitorDalla/traffic-light)

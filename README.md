@@ -9,7 +9,7 @@ Essse projeto foi desenvolvido seguindo as seguintes tecnologias:
 - JavaScript - Implementa toda a lógica e eventos que acontece no programa (https://www.javascript.com/)
   
 ## Visualização do Projeto
-(https://github.com/HeitorDalla/traffic-light)
+(https://heitordalla.github.io/traffic-light/)
 
 ## Funcionalidades
 - Observação de um semáforo.

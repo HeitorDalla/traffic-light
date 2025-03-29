@@ -18,4 +18,6 @@ Não há pré-requisitos específicos para utilizar este gerador de senha.
 Esse projeto é um código aberto e todas as modificações são bem-vindas! Fique a vontade de ralatar bugs e propor melhorias!
 
 ## Contato
-Heitor Dalla - heitorvillavilla@gmail.com
+- Criado por Heitor Giussani Dalla Villa
+- E-mail: heitorvillavilla@gmail.com
+- Linkedin: https://www.linkedin.com/in/heitordallavilla

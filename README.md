@@ -28,3 +28,6 @@ Esse projeto é um código aberto e todas as modificações são bem-vindas! Fiq
 - Criado por Heitor Giussani Dalla Villa
 - E-mail: heitorvillavilla@gmail.com
 - Linkedin: https://www.linkedin.com/in/heitordallavilla
+
+## Observações Finais
+Projeto inspirado no <a href="https://www.udemy.com/course/curso-de-javascript-html-e-css-projetos-reais/?couponCode=KEEPLEARNINGBR">Curso de javascript</a>

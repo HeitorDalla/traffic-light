@@ -2,7 +2,7 @@
 
 function iniciarSemaforo () {
     setTimeout(() => {
-        corVerde();
+        corVermelho();
     }, 1000);
 };
 

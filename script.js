@@ -6,13 +6,13 @@ function iniciarSemaforo () {
     }, 1000);
 };
 
-function corVerde () {
-    let corVerde = document.querySelector("#containerCores .corVerde");
-    corVerde.style.backgroundColor = 'green';
+function corVermelho () {
+    let corVermelho = document.querySelector("#containerCores .corVermelho");
+    corVermelho.style.backgroundColor = 'red';
     setTimeout(() => {
-        corVerde.style.backgroundColor = 'white';
-        corAmarelo();
-    }, 6000);
+        corVermelho.style.backgroundColor = 'white';
+        corVerde();
+    }, 8000);
 };
 
 function corAmarelo () {
@@ -24,13 +24,13 @@ function corAmarelo () {
     }, 2000);
 };
 
-function corVermelho () {
-    let corVermelho = document.querySelector("#containerCores .corVermelho");
-    corVermelho.style.backgroundColor = 'red';
+function corVerde () {
+    let corVerde = document.querySelector("#containerCores .corVerde");
+    corVerde.style.backgroundColor = 'green';
     setTimeout(() => {
-        corVermelho.style.backgroundColor = 'white';
-        corVerde();
-    }, 8000);
+        corVerde.style.backgroundColor = 'white';
+        corAmarelo();
+    }, 6000);
 };
 
 iniciarSemaforo();

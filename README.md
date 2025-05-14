@@ -19,7 +19,7 @@ Essse projeto foi desenvolvido seguindo as seguintes tecnologias:
 2. O simulado do semáforo vai iniciar a contagem.
 
 ## Pré-requisitos
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar este programa.
 
 ## Contribuindo
 Esse projeto é um código aberto e todas as modificações são bem-vindas! Fique a vontade de ralatar bugs e propor melhorias!
